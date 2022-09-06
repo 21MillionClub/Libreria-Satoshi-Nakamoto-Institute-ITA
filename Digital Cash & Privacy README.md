@@ -3,7 +3,6 @@ Digital Cash & Privacy - Hal Finney
 
 August 19, 1993
 
-
 Sono d'accordo con Anonymous che ci sono problemi con l'uso effettivo del contante digitale nel breve termine. Ma dipende in qualche misura dal problema che si sta cercando di risolvere.
 
 Una mia preoccupazione è che il passaggio ai pagamenti elettronici diminuisca la privacy personale rendendo più facile registrare le transazioni. Si potrebbero creare dei dossier che traccerebbero i modelli di spesa di ognuno di noi.
