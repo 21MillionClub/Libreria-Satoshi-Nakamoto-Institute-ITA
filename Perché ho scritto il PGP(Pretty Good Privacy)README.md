@@ -3,9 +3,11 @@ Why I Wrote PGP - Philip R. Zimmermann
 
 Part of the Original 1991 PGP User's Guide (updated in 1999)
 
-Qualsiasi cosa facciate sarà insignificante, ma è molto importante che la facciate.
 
+
+Qualsiasi cosa facciate sarà insignificante, ma è molto importante che la facciate.
 Mahatma Gandhi
+
 È personale. È privato. E non sono affari di nessuno se non vostri. Potreste pianificare una campagna politica, discutere delle vostre tasse o avere una storia d'amore segreta. Oppure potreste comunicare con un dissidente politico in un Paese repressivo. In ogni caso, non volete che la vostra posta elettronica privata (e-mail) o i vostri documenti riservati vengano letti da altri. Non c'è nulla di male nell'affermare la propria privacy. La privacy è una torta di mele come la Costituzione.
 
 Il diritto alla privacy è diffuso implicitamente in tutta la Carta dei diritti. Ma quando fu redatta la Costituzione degli Stati Uniti, i Padri fondatori non videro la necessità di enunciare esplicitamente il diritto a una conversazione privata. Sarebbe stato sciocco. Duecento anni fa, tutte le conversazioni erano private. Se qualcun altro era a portata d'orecchio, si poteva andare dietro il fienile e conversare lì. Nessuno poteva ascoltare a sua insaputa. Il diritto alla conversazione privata era un diritto naturale, non solo in senso filosofico, ma anche in senso di legge fisica, data la tecnologia dell'epoca.
