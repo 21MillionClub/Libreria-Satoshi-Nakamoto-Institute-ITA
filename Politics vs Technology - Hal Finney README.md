@@ -1,5 +1,5 @@
 # Libreria-Satoshi-Nakamoto-Institute-ITA
-Politica e tecnologia - Hal Finney
+Politics vs Technology - Hal Finney
 
 January 2, 1994
 
