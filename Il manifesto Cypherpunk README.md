@@ -1,5 +1,6 @@
 # Libreria-Satoshi-Nakamoto-Institute-ITA
 Il manifesto Cypherpunk - Eric Hughes March 9, 1993
+
 La privacy è necessaria per una società aperta nell'era elettronica. La privacy non è segretezza. Una questione privata è qualcosa che non si vuole far sapere al mondo intero, mentre una questione segreta è qualcosa che non si vuole far sapere a nessuno. La privacy è il potere di rivelare selettivamente se stessi al mondo.
 
 Se due parti hanno un qualche tipo di rapporto, ognuna di esse ha un ricordo della propria interazione. Ciascuna parte può parlare del proprio ricordo; come si può impedire che ciò avvenga? Si potrebbero emanare leggi contro di essa, ma la libertà di parola, ancor più della privacy, è fondamentale per una società aperta; cerchiamo di non limitare affatto la parola. Se molte parti parlano insieme nello stesso forum, ognuna può parlare a tutte le altre e aggregare conoscenze su individui e altre parti. Il potere delle comunicazioni elettroniche ha reso possibile questo tipo di discorso di gruppo, che non scomparirà solo perché lo vogliamo noi.
