@@ -1,5 +1,7 @@
 # Libreria-Satoshi-Nakamoto-Institute-ITA
-Il Manifesto cripto-anarchico Timothy C. May 1988
+The Crypto Anarchist Manifesto - Timothy C. May 
+
+1988
 
 Uno spettro si aggira per il mondo moderno: lo spettro della cripto-anarchia.
 
