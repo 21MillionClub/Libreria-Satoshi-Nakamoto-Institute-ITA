@@ -6,6 +6,7 @@ Part of the Original 1991 PGP User's Guide (updated in 1999)
 
 
 Qualsiasi cosa facciate sarà insignificante, ma è molto importante che la facciate.
+
 Mahatma Gandhi
 
 È personale. È privato. E non sono affari di nessuno se non vostri. Potreste pianificare una campagna politica, discutere delle vostre tasse o avere una storia d'amore segreta. Oppure potreste comunicare con un dissidente politico in un Paese repressivo. In ogni caso, non volete che la vostra posta elettronica privata (e-mail) o i vostri documenti riservati vengano letti da altri. Non c'è nulla di male nell'affermare la propria privacy. La privacy è una torta di mele come la Costituzione.
